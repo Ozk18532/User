@@ -1,0 +1,74 @@
+[
+   {
+      "id": 1,
+      "name": "Carlos Fernández",
+      "username": "Cfernandez",
+      "email": "carlos.fernandez@example.com",
+      "address": {
+         "street": "Avenida Siempre Viva",
+         "suite": "Apt. 12B",
+         "city": "Ciudad de México",
+         "zipcode": "01020"
+      },
+      "phone": "+52 55 1234 5678",
+      "website": "carlosweb.com",
+      "company": {
+         "name": "Fernández & Asociados",
+         "catchPhrase": "Innovación y compromiso"
+      }
+   },
+   {
+      "id": 2,
+      "name": "María López",
+      "username": "Mlopez",
+      "email": "maria.lopez@example.com",
+      "address": {
+         "street": "Calle del Sol",
+         "suite": "Piso 3",
+         "city": "Buenos Aires",
+         "zipcode": "C1001"
+      },
+      "phone": "+54 11 9876 5432",
+      "website": "marialopez.com",
+      "company": {
+         "name": "Grupo López",
+         "catchPhrase": "Soluciones para el futuro"
+      }
+   },
+   {
+      "id": 3,
+      "name": "Javier Rodríguez",
+      "username": "Jrodriguez",
+      "email": "javier.rodriguez@example.com",
+      "address": {
+         "street": "Avenida del Libertador",
+         "suite": "Torre A, Oficina 405",
+         "city": "Madrid",
+         "zipcode": "28001"
+      },
+      "phone": "+34 91 456 7890",
+      "website": "javierrodriguez.net",
+      "company": {
+         "name": "Rodríguez Consulting",
+         "catchPhrase": "Estrategias empresariales inteligentes"
+      }
+   },
+   {
+      "id": 4,
+      "name": "Sofía Ramírez",
+      "username": "Sramirez",
+      "email": "sofia.ramirez@example.com",
+      "address": {
+         "street": "Carrera 7",
+         "suite": "Edificio Los Pinos, Apto 801",
+         "city": "Bogotá",
+         "zipcode": "110221"
+      },
+      "phone": "+57 1 234 5678",
+      "website": "sofiaramirez.org",
+      "company": {
+         "name": "Ramírez Innovaciones",
+         "catchPhrase": "Transformando ideas en realidades"
+      }
+   }
+]
